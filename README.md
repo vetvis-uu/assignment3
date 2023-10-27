@@ -8,7 +8,7 @@ Requirements to pass: Before the deadline, hand in code and answers for Parts 1-
 
 For the source code, download (or clone) the Git-repository of this assignment.
 
-The dataset that we will use was created by Anders Hast and can be downloaded from [here](https://www.cb.uu.se/~aht/dataset/). It contains scanned images of 30 different words extracted from the larger [Espossales database](http://dag.cvc.uab.es/the-esposalles-database/). Each image has a label associating it with one of the 30 words. The label data is stored in a separate file that you also need to download. A bit more information about the dataset can be found [here](https://andershast.com/datasets/).
+The dataset that we will use was created by Anders Hast and can be downloaded from [here](https://www.cb.uu.se/~aht/dataset/Esposalles-bgr-images). It contains scanned images of 30 different words extracted from the larger [Espossales database](http://dag.cvc.uab.es/the-esposalles-database/). Each image has a label associating it with one of the 30 words. The label data is stored in a separate [file](https://www.cb.uu.se/~aht/dataset/Esposalles-bgr-labels) that you also need to download. A bit more information about the dataset can be found [here](https://andershast.com/datasets/).
 
 ## Setting up the Python environment
 
